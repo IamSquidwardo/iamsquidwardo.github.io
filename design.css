@@ -1,0 +1,25 @@
+/* Style Sheet */
+img {
+    width: 300px;
+    height: auto;
+    border-style: double;
+    border-width: 1px;
+    float: left;
+    margin-right: 10px;
+    src: format();
+}
+.title {
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13.75px;
+}
+div {
+    border-top-style: dashed;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-bottom-style: solid;
+}
